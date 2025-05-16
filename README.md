@@ -34,17 +34,11 @@ I'm **[`./r4gh4v`](https://x.com/w0lf403)**, a hacker, Security Researcher, Malw
 
 <img width="30%" align='right' src="https://raw.githubusercontent.com/w0lf403/r4gh4v/refs/heads/main/img/giphy%20(3).gif">
 
-👉 Still Learning Bug hunting & malware forensics.
+- Exploring bug bounty hunting, malware forensics, and red teaming.
+- Developing practical security tools for personal use and the cybersecurity community.
+- Creating & contributing to open-source projects to enhance digital security.
+- Currently diving into mobile penetration testing and Web3 security research.
 
-👉 Managing Tech Communities & Content creator.
-
-👉 Writing Some Useful Tools For Myself & Communities
-
-👉 Building & Contributing To Open Source Projects
-
-👉 Currently Learning mobile pentesting & web3 
-
-`Updating:`  Journey to Cybersecurity Specialist.
 
 ---
 
