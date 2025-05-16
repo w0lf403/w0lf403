@@ -23,7 +23,7 @@ I'm **[`./r4gh4v`](https://x.com/w0lf403)**, a hacker, Security Researcher, Malw
 - i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
-- Reach me out at **w00lfff@bugcrowdninja.com**
+- Reach me out at **w0lf403@bugcrowdninja.com**
 
 </details>
 <br>
