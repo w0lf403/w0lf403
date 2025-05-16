@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://raw.githubusercontent.com/w0lf403/r4gh4v/refs/heads/main/img/giphy.gif" width="100%" height="500"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/w0lf403/w0lf403/refs/heads/main/img/giphy.gif" width="100%" height="500"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -32,7 +32,7 @@ I'm **[`./r4gh4v`](https://x.com/w0lf403)**, a hacker, Security Researcher, Malw
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="30%" align='right' src="https://raw.githubusercontent.com/w0lf403/r4gh4v/refs/heads/main/img/giphy%20(3).gif">
+<img width="30%" align='right' src="https://raw.githubusercontent.com/w0lf403/w0lf403/refs/heads/main/img/giphy3.gif">
 
 - Exploring bug bounty hunting, malware forensics, and red teaming.
 - Developing practical security tools for personal use and the cybersecurity community.
