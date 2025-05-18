@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`./r4gh4v`](https://x.com/w0lf403)**, a hacker, Security Researcher, Malware Analyst, and Red Team Operator. Driven by a deep passion for cybersecurity, I specialize in analyzing malware, uncovering vulnerabilities, and securing digital infrastructures. My mission is to strengthen defenses, dissect cyber threats, and contribute to a more resilient online ecosystem.
+I'm **[`./r4gh4v`](https://x.com/w0lf403)**, a hacker, BugBounty Hunter, Security Researcher, Malware Analyst, and Red Teamer . Driven by a deep passion for cybersecurity, I specialize in analyzing malware, uncovering vulnerabilities, and securing digital infrastructures. My mission is to strengthen defenses, dissect cyber threats, and contribute to a more resilient online ecosystem.
 
 <details>
   <summary>More about me</summary>
@@ -21,7 +21,7 @@ I'm **[`./r4gh4v`](https://x.com/w0lf403)**, a hacker, Security Researcher, Malw
 - **From**: India
 - **Bug Hunter** | **Security Researcher** | **Developer**
 - i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**
-- Improving knowledge in **Webapp Vulnerabilities**
+- Improving knowledge in **Webapp Vulnerabilities** | **Malware**
 - Lifelong learner — always exploring **everything**
 - Reach me out at **w0lf403@bugcrowdninja.com**
 
